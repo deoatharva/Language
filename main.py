@@ -18,7 +18,7 @@ sanskrit_translations = {
     "How are you?": "भवान्‌ कथमसि?",
     "I am fine. And you?": "अहं कुशलं अस्मि। त्वं अपि?",
     "What is your name?": "भवतः नाम किमस्ति?",
-    "My name is atharva": "मम नाम ",
+    "my name is atharva": "मम नाम अथर्व",
     "I am pleased to meet you.": "अहं भवन्तं मिलित्वा प्रसन्नः अस्मि।",
     "Thank you.": "धन्यवाद।",
     "You are welcome.": "भवतः स्वागतम्‌।",
